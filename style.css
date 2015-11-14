@@ -4,14 +4,20 @@ p {
 	font-size: 40px;
 }
 
+.defaultHeader{
+	text-align: center;
+	font-size: 18px;
+}
+
 .photo {
 	display: block;
 	margin: 0 auto;
-	width: 1000px;
-	height: 1500px;
+	width: 400px;
+	height: 800x;
 }
 
 h1 {
+	font-family: monospace;
 	text-align: center;
 	color: steelblue;
 }
