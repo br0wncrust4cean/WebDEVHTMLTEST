@@ -1,0 +1,17 @@
+p {
+	color: firebrick;
+	text-align: center;
+	font-size: 40px;
+}
+
+.photo {
+	display: block;
+	margin: 0 auto;
+	width: 1000px;
+	height: 1500px;
+}
+
+h1 {
+	text-align: center;
+	color: steelblue;
+}
